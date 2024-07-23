@@ -24,7 +24,7 @@ I’d love to connect, please feel free to contact me via email: pongphat.mit@gm
 
 
 
-1. Data Analyst
+2. Data Analyst
 
 🏢 Internship at Technology Without Borders
 ⏳ Duration: Nov 2023 - Mar 2024 · Greece · Remote
