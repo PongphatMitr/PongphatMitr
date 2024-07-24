@@ -5,11 +5,13 @@ As a junior student in Information and Communication Technology at Mahidol Unive
 
 I’d love to connect, please feel free to contact me via email: pongphat.mit@gmail.com
 
+
 🎓 Education
 
 🌱 Currently Learning: Faculty of Information and Communication Technology (ICT Mahidol)
 
 🌏 Location: Thailand 🇹🇭
+
 
 💼 Professional Experience
 
@@ -23,6 +25,7 @@ I’d love to connect, please feel free to contact me via email: pongphat.mit@gm
 - Applied machine learning models for agriculture plant classification with 71% validation accuracy on deployment.
 - Design and develop data pipeline for geo-spatial data (.SHP / .Geojson) for monitoring error during process agriculture image from THEOS-2
 
+
 2. Data Analyst
    
 🏢 Internship at Technology Without Borders
@@ -34,6 +37,7 @@ I’d love to connect, please feel free to contact me via email: pongphat.mit@gm
  - Inform leads about the company's offering and services
  - Analyze data to qualify leads effectively
  - Manage project KPIs and reports/dashboards from various data sources
+
 
 3. Information Technology Trainee
    
