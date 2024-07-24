@@ -9,25 +9,24 @@ I’d love to connect, please feel free to contact me via email: pongphat.mit@gm
 🌱 Currently Learning: Faculty of Information and Communication Technology (ICT Mahidol)
 🌏 Location: Thailand 🇹🇭
 
-📬 Contact Me
-📧 Email: pongphat.mit@gmail.com
-
 💼 Professional Experience
 
 1. Machine Learning Developer/ Data Engineer
-
+   
 🏢 Internship at Geo - informatics and Space Technology Development Agency (Government Office)
+
 ⏳ Duration: Jun 2024 - Jul 2024 · Bangkok City, Thailand · On-site
+
 🌟 Key Achievements:
 - Applied machine learning models for agriculture plant classification with 71% validation accuracy on deployment.
 - Design and develop data pipeline for geo-spatial data (.SHP / .Geojson) for monitoring error during process agriculture image from THEOS-2
 
-
-
 2. Data Analyst
-
+   
 🏢 Internship at Technology Without Borders
+
 ⏳ Duration: Nov 2023 - Mar 2024 · Greece · Remote
+
 💡 Key Contributions:
  -  Perform ad-hoc data gathering and analysis to support ongoing projects
  - Inform leads about the company's offering and services
@@ -35,9 +34,11 @@ I’d love to connect, please feel free to contact me via email: pongphat.mit@gm
  - Manage project KPIs and reports/dashboards from various data sources
 
 3. Information Technology Trainee
-
+   
 🏢 Internship at VIV interchem Co.Ltd.
+
 ⏳ Duration: Jun 2023 - July 2023 · Bangkok City, Thailand · On-site
+
 💡 Key Contributions:
 - Develop an Intranet communication site utilizing Microsoft SharePoint
 - Oversee the maintenance of all IT equipment
