@@ -29,7 +29,16 @@ I’d love to connect, please feel free to contact me via email: pongphat.mit@gm
 🏢 Internship at Technology Without Borders
 ⏳ Duration: Nov 2023 - Mar 2024 · Greece · Remote
 💡 Key Contributions:
--  Perform ad-hoc data gathering and analysis to support ongoing projects
+ -  Perform ad-hoc data gathering and analysis to support ongoing projects
  - Inform leads about the company's offering and services
  - Analyze data to qualify leads effectively
  - Manage project KPIs and reports/dashboards from various data sources
+
+3. Information Technology Trainee
+
+🏢 Internship at VIV interchem Co.Ltd.
+⏳ Duration: Jun 2023 - July 2023 · Bangkok City, Thailand · On-site
+💡 Key Contributions:
+- Develop an Intranet communication site utilizing Microsoft SharePoint
+- Oversee the maintenance of all IT equipment
+- Design educational materials on Microsoft Office Excel for internal employee learning
