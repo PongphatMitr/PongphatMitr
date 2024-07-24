@@ -6,7 +6,9 @@ As a junior student in Information and Communication Technology at Mahidol Unive
 I’d love to connect, please feel free to contact me via email: pongphat.mit@gmail.com
 
 🎓 Education
+
 🌱 Currently Learning: Faculty of Information and Communication Technology (ICT Mahidol)
+
 🌏 Location: Thailand 🇹🇭
 
 💼 Professional Experience
